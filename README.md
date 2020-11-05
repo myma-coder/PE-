@@ -8,7 +8,7 @@ cmd   cd到项目目录  PE.py   * .exe
 
 PE.py 360chrome.exe
 
-![1604577517680](C:\Users\MY\AppData\Roaming\Typora\typora-user-images\1604577517680.png)
+![](C:\Users\MY\Pictures\LE[L[5D2_RZ%W%}E4X[70TH.png)
 
 
 
