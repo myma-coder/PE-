@@ -8,7 +8,7 @@ cmd   cd到项目目录  PE.py   * .exe
 
 PE.py 360chrome.exe
 
-![](C:\Users\MY\Pictures\LE[L[5D2_RZ%W%}E4X[70TH.png)
+![Image text](https://github.com/mywxy/PE-/blob/master/img-folder/%E5%BF%AB%E7%85%A7.png)
 
 
 
