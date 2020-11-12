@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="e3.exe破解:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/e3_exe_jar</output-path>
+    <root id="archive" name="e3.exe破解.jar">
+      <element id="module-output" name="e3.exe破解" />
+    </root>
+  </artifact>
+</component>
